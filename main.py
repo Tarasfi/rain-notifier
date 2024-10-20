@@ -39,3 +39,4 @@ if will_rain:
 
 response.raise_for_status()
 
+#трач
