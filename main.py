@@ -11,8 +11,8 @@ auth_token = "" #YOURTOKEN
 
 
 weather_params = {
-    "lat": "51.9063997",
-    "lon": "8.3782078",
+    "lat": "51.9063997", #latitude of city
+    "lon": "8.3782078", #longitude of city
     "appid": api_key,
     "cnt": 4,
 }
